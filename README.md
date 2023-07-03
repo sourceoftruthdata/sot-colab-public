@@ -28,3 +28,5 @@ Here are some additional resources that you may find helpful:
 * [Data science tutorial](https://www.datacamp.com/courses/data-science-intro)
 
 I hope you find this repository helpful!
+
+Coming soon, running local.
