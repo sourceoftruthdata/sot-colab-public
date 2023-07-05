@@ -30,3 +30,5 @@ Here are some additional resources that you may find helpful:
 I hope you find this repository helpful!
 
 Coming soon, running local.
+
+## Notes
