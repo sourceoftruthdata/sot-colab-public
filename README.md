@@ -32,3 +32,5 @@ I hope you find this repository helpful!
 Coming soon, running local.
 
 ## Notes
+
+Updating Runtime to Colab Runtime
